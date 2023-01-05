@@ -73,3 +73,59 @@
 - Arrow Functions
 ### [DOM](https://youtu.be/5fb2aPlgoys)
 
+
+## Advanced Topics
+
+### [Advanced Scope](https://www.youtube.com/watch?v=Qist9lND9PQ)
+
+### [Closure](https://youtu.be/3a0I8ICR1Vg)
+   
+### [this keyword](https://www.youtube.com/watch?v=rv7Q11KWmKU)
+- [Implicit Binding](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=Rule%20%233%3A%20The%20JavaScript%20new,%3D%20function()%20%7B%20console)
+- [Explicit Binding](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=Rule%20%233%3A%20The%20JavaScript%20new,%3D%20function()%20%7B%20console) - [call,apply,bind]
+- [new Binding](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=Rule%20%233%3A%20The%20JavaScript%20new,%3D%20function()%20%7B%20console)
+- [Lexical Binding](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=Rule%20%233%3A%20The%20JavaScript%20new,%3D%20function()%20%7B%20console)
+- [Default Binding](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=Rule%20%233%3A%20The%20JavaScript%20new,%3D%20function()%20%7B%20console)
+
+
+### [Currying](https://www.youtube.com/watch?v=vQcCNpuaJO8)
+
+### [Class](https://javascript.info/classes)
+
+### [Prototype & Prototypal Inheritance](https://www.youtube.com/watch?v=wstwjQ1yqWQ)
+
+### [Iterators](https://www.youtube.com/watch?v=-8mZXplYroc)
+
+### [Generators](https://www.youtube.com/watch?v=IJ6EgdiI_wU)
+
+### [Asynchronous JavaScript](https://www.youtube.com/watch?v=8zKuNo4ay8E)
+- setTimeout
+- setInterval
+- Callbacks
+- Promises
+- [async await](https://www.youtube.com/watch?v=Gjbr21JLfgg)
+
+### [Event Loop](https://www.youtube.com/watch?v=8zKuNo4ay8E)
+
+### Module System
+- [CJS](https://www.youtube.com/watch?v=6z5izWt9x9M)
+- [ESM](https://www.youtube.com/watch?v=6z5izWt9x9M)
+- [UMD / AMD](https://www.youtube.com/watch?v=6z5izWt9x9M)
+- [Import / Export](https://www.youtube.com/watch?v=Py2fj9_BJXs)
+- [Default & Named Exports](https://www.youtube.com/watch?v=RMl-ystfzoY)
+
+### [Package Manager](https://www.youtube.com/watch?v=Mp_LqbgFHSk)
+- npm
+- yarn
+
+### [XHR & Fetch](https://www.youtube.com/watch?v=D5WkKTorCqo)
+
+### [Storage](https://www.youtube.com/watch?v=MOd5cTJ6kaA)
+
+### [Video & Audio](https://www.youtube.com/watch?v=K6L38xk2rkk)
+
+### Memory Management
+- [Memory Lifecycle](https://medium.com/swlh/the-lifecycle-of-memory-in-javascript-5b5bffc5ff4c)
+- [Garbage Collection](https://javascript.info/garbage-collection)
+
+
