@@ -26,3 +26,8 @@
 - [Map / Weak Map](https://www.youtube.com/watch?v=ycohYSx5h9w)
 - [Set / Weak Set](https://www.youtube.com/watch?v=ycohYSx5h9w)
 - [Date](https://www.youtube.com/watch?v=-H6xNrnFI80)
+
+
+### Type Conversion
+- [Explicit Conversion and Implicit Conversion](https://www.c-sharpcorner.com/article/type-conversions-in-javascript/)
+
