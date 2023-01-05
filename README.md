@@ -7,3 +7,8 @@
 - [browser console](https://www.youtube.com/watch?v=BMFbW9giTuw)
 
 
+### Variables
+- [Declarations](https://www.youtube.com/watch?v=9WIJQDvt4Us)
+- [Naming Rules](https://www.youtube.com/watch?v=rn6T2xjxXTA)
+- [Scope](https://www.w3schools.com/js/js_scope.asp)
+- [Hoisting](https://www.youtube.com/watch?v=Fnlnw8uY6jo)
