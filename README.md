@@ -8,14 +8,14 @@
 
 
 ### Variables
-- [Declarations](https://www.youtube.com/watch?v=9WIJQDvt4Us) [var, let, const]
+- [Declarations](https://www.youtube.com/watch?v=9WIJQDvt4Us) - [var, let, const]
 - [Naming Rules](https://www.youtube.com/watch?v=rn6T2xjxXTA)
-- [Scope](https://www.w3schools.com/js/js_scope.asp) [Global, Function, Block]
+- [Scope](https://www.w3schools.com/js/js_scope.asp) - [Global, Function, Block]
 - [Hoisting](https://www.youtube.com/watch?v=Fnlnw8uY6jo)
 
 
 ### Data Types
-- [Primitive Types](https://javascript.info/types#bigint-type) (symbol / undefined / Boolean / Number / Bright / String)
+- [Primitive Types](https://javascript.info/types#bigint-type) - [symbol / undefined / Boolean / Number / Bright / String]
 - [Null](https://www.youtube.com/watch?v=yH8ayoezcLA)
 - [Object](https://www.youtube.com/watch?v=S1dWe3f2zm0)
 - [Function](https://www.youtube.com/watch?v=jwOW-qlJtxg)
