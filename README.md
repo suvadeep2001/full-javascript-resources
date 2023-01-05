@@ -63,3 +63,13 @@
 - [Bitwise Operators](https://www.youtube.com/watch?v=mesu75PTDC8)
 - [Comma Operator](https://www.youtube.com/watch?v=X_Lr_N_b7PM)
 - [Unary Operators](https://www.youtube.com/watch?v=qt8_AhzzKM0)
+
+### [Functions](https://www.youtube.com/watch?v=7DrGsJegIOY)
+- Function Declarations
+- Function Expressions
+- Calling Functions
+- Parameters & Arguments
+- Scope
+- Arrow Functions
+### [DOM](https://youtu.be/5fb2aPlgoys)
+
