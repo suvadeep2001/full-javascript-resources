@@ -19,3 +19,10 @@
 - [Null](https://www.youtube.com/watch?v=yH8ayoezcLA)
 - [Object](https://www.youtube.com/watch?v=S1dWe3f2zm0)
 - [Function](https://www.youtube.com/watch?v=jwOW-qlJtxg)
+
+
+### Data Structures
+- [Array](https://javascript.info/array)
+- [Map / Weak Map](https://www.youtube.com/watch?v=ycohYSx5h9w)
+- [Set / Weak Set](https://www.youtube.com/watch?v=ycohYSx5h9w)
+- [Date](https://www.youtube.com/watch?v=-H6xNrnFI80)
