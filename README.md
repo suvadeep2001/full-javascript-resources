@@ -41,6 +41,7 @@
 - [for](https://www.youtube.com/watch?v=26QWcjTdJGM)
 - [for..in](https://www.youtube.com/watch?v=NlagmmCwOU4)
 - [for..of](https://www.youtube.com/watch?v=NlagmmCwOU4)
+- [forEach](https://youtu.be/u2GVOicqFKM)
 - [break / continue](https://www.w3schools.com/js/js_break.asp)
 
 
