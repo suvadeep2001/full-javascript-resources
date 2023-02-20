@@ -128,4 +128,5 @@
 - [Memory Lifecycle](https://medium.com/swlh/the-lifecycle-of-memory-in-javascript-5b5bffc5ff4c)
 - [Garbage Collection](https://javascript.info/garbage-collection)
 
-
+### Practice Links
+- [Link](https://docs.google.com/document/d/1AI0ZdvuEBIhdkBzVN9o0fV7E-UUMsoABn3reBSbXU8U/edit?usp=sharing)
