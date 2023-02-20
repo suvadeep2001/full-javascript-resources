@@ -93,6 +93,8 @@
 
 ### [Class](https://javascript.info/classes)
 
+### [OOP](https://www.youtube.com/playlist?list=PLXQpH_kZIxTWQfh_krE4sI_8etq5rH_z6)
+
 ### [Prototype & Prototypal Inheritance](https://www.youtube.com/watch?v=wstwjQ1yqWQ)
 
 ### [Iterators](https://www.youtube.com/watch?v=-8mZXplYroc)
