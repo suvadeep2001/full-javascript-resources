@@ -99,14 +99,12 @@
 
 ### [Generators](https://www.youtube.com/watch?v=IJ6EgdiI_wU)
 
-### [Asynchronous JavaScript](https://www.youtube.com/watch?v=8zKuNo4ay8E)
+### [Asynchronous JavaScript and Event Loop](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 - setTimeout
 - setInterval
 - Callbacks
 - Promises
 - [async await](https://www.youtube.com/watch?v=Gjbr21JLfgg)
-
-### [Event Loop](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 
 ### Module System
 - [CJS](https://www.youtube.com/watch?v=6z5izWt9x9M)
