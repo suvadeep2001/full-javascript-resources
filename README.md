@@ -77,7 +77,7 @@
 
 ## Advanced Topics
 
-### [Advanced Scope](https://www.youtube.com/watch?v=Qist9lND9PQ)
+### [Advanced Scope](https://youtu.be/TkFN6e9ZDMw)
 
 ### [Closure](https://youtu.be/3a0I8ICR1Vg)
    
