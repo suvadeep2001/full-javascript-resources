@@ -129,3 +129,37 @@
 
 ### Practice Links
 - [Link](https://docs.google.com/document/d/1AI0ZdvuEBIhdkBzVN9o0fV7E-UUMsoABn3reBSbXU8U/edit?usp=sharing)
+
+### All Important Topics
+- Variables and Data Types
+- Operators and Expressions
+- Control Structures (if/else statements, switch statements, loops)
+- Functions (function declaration, function expression, arrow functions, hoisting, recursion)
+- Arrays (creation, accessing elements, adding and removing elements, iteration methods)
+- Objects (creation, accessing properties, adding and deleting properties, constructor functions, classes, prototype chain)
+- Scope and Closures (global scope, local scope, block scope, closure)
+- Inheritance and Prototypes (prototypal inheritance, classes, extends keyword)
+- ES6+ Features (let, const, arrow functions, destructuring, spread, template literals, classes, modules, etc.)
+- Promises and Asynchronous Programming (callbacks, event loop, promises, async/await)
+- Generators and Iterators
+- Regular Expressions
+- Error Handling (try/catch, throw)
+- Debugging
+- Browser Object Model (BOM)
+- Document Object Model (DOM)
+- Events and Event Handling
+- jQuery
+- AJAX
+- JSON
+- RESTful APIs
+- Node.js
+- Express.js
+- Templating Engines (e.g. Handlebars, Pug)
+- Authentication and Authorization
+- Security (Cross-Site Scripting, Cross-Site Request Forgery, SQL Injection, etc.)
+- Testing (Unit Testing, Integration Testing, End-to-End Testing)
+- Debugging Tools (Chrome DevTools, Node Inspector)
+- Webpack and Babel
+- Performance Optimization (minification, concatenation, caching)
+- Accessibility
+- Design Patterns (Module, Singleton, Factory, Observer, etc.)
