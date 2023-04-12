@@ -163,3 +163,17 @@
 - Performance Optimization (minification, concatenation, caching)
 - Accessibility
 - Design Patterns (Module, Singleton, Factory, Observer, etc.)
+
+
+### Some Project Ideas
+
+- [Build a Movie review App](https://youtu.be/mrHNSanmqQ4)
+- [Social Media App](https://youtu.be/n1mdAPFq2Os)
+- [Online marketplace](https://youtu.be/_ou3KWsnZTI)
+- [Weather app](https://youtu.be/GuA0_Z1llYU)
+- [Recipe app](https://youtu.be/JJ_SnRlslgI)
+- [Fitness tracker](https://youtu.be/KBpoBc98BwM)
+- [Chat Application](https://youtu.be/jcOKU9f86XE)
+
+### Bonus One
+- [Event booking platform](https://youtu.be/3QcMq90iD5Q)
