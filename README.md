@@ -264,3 +264,6 @@
 
 ### Bonus One
 - [Event booking platform](https://youtu.be/3QcMq90iD5Q)
+
+### Blogs For React.js
+- [click here](https://docs.google.com/document/d/1cEAI2zt-GnOoAZ0So41QEhSybo4IXGJe9HTwRoTF6fM/edit?usp=sharing)
