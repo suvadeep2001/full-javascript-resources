@@ -22,7 +22,7 @@
 
 
 ### Data Structures
-- [Array](https://javascript.info/array)
+- [Array](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
 - [Map / Weak Map](https://www.youtube.com/watch?v=ycohYSx5h9w)
 - [Set / Weak Set](https://www.youtube.com/watch?v=ycohYSx5h9w)
 - [Date](https://www.youtube.com/watch?v=-H6xNrnFI80)
